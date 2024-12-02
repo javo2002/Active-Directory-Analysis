@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains resources and documentation to create a functional Active Directory (AD) environment with integrated monitoring and security mechanisms. The lab is inspired by a YouTube guide by [MyDFIR](https://www.youtube.com/watch?v=5OessbOgyEo). Credit to MyDFIR for their detailed guidance on building a hands-on AD setup.
+This repository contains resources and documentation to create a functional Active Directory (AD) environment with integrated monitoring and security mechanisms. The lab is inspired by [MyDFIR](https://www.youtube.com/watch?v=5OessbOgyEo).
 
 The project incorporates:
 - Windows Server 2022 for Active Directory Domain Services.
