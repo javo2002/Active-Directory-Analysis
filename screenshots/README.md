@@ -53,10 +53,6 @@ This document provides an overview of the screenshots included in the `screensho
 
 These screenshots are intended to provide a visual guide to the setup and configuration processes involved in the Active Directory Home Lab. They can be used as a reference to ensure proper configuration and to troubleshoot any issues that may arise during the lab setup.
 
-## Credits
-
-This project is inspired by MyDFIR's guide on building an Active Directory home lab. For more detailed instructions, refer to the original guide: [Active Directory Home Lab Guide by MyDFIR](https://example.com).
-
 ---
 
 For further details, refer to the main [README](./README.md) of the Active Directory Home Lab project.
