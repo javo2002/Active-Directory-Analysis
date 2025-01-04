@@ -11,9 +11,9 @@ The project incorporates:
 - A Kali Linux machine for simulated attack scenarios.
 
 ## Logical Diagram
-Below is a link to the logical diagram of the project. The diagram illustrates the network topology, including the Cowrie honeypot on the Digital Ocean VPS.
+Below is a link to the logical diagram of the project. The diagram illustrates the network topology, Including a router, switch, 3 authorized nodes and 1 unauthorized node.
 
-<img src="./ad_ld.png" alt="Logical Diagram" width="300">
+<img src="./ad_ld.png" alt="Logical Diagram" width="400">
 
 ## Features
 1. **Active Directory Setup**
