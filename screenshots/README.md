@@ -38,9 +38,9 @@ This document provides an overview of the screenshots included in the `screensho
 
 <img src="./holder/ad_ss6.png" alt="Screenshot 6" width="700">
 
-- **Description**: File system view of the project directory.
+- **Description**: Kali Linux cli utilized for crowbar brute forcing.
 - **Details**: 
-  - Shows the logical structure and file actions within the project directory.
+  - Shows how the Kali Linux Machine utilizes their knowledge of AD accounts and attempts to brute force their password with a password.txt file.
 
 <img src="./holder/ad_ss7.png" alt="Screenshot 7" width="700">
 
