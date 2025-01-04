@@ -13,7 +13,7 @@ The project incorporates:
 ## Logical Diagram
 Below is a link to the logical diagram of the project. The diagram illustrates the network topology, Including a router, switch, 3 authorized nodes and 1 unauthorized node.
 
-<img src="./ad_ld.png" alt="Logical Diagram" width="400">
+<img src="./ad_ld.png" alt="Logical Diagram" width="200">
 
 ## Features
 1. **Active Directory Setup**
