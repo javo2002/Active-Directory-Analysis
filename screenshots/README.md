@@ -8,8 +8,8 @@ This document provides an overview of the screenshots included in the `screensho
 
 - **Description**: Oracle VM VirtualBox Manager interface showing the configuration of virtual machines.
 - **Details**: 
-  - Lists various projects and their statuses.
-  - Highlights the importance of understanding ISO downloads and memory allocation for efficient VM operation.
+  - Lists various snapshots.
+  - Highlights the importance of a hypervisor for VLAN setup.
 
 <img src="./holder/ad_ss2.png" alt="Screenshot 2" width="700">
 
