@@ -10,6 +10,11 @@ The project incorporates:
 - A Windows 10 client.
 - A Kali Linux machine for simulated attack scenarios.
 
+## Logical Diagram
+Below is a link to the logical diagram of the project. The diagram illustrates the network topology, including the Cowrie honeypot on the Digital Ocean VPS.
+
+<img src="./screenshots/logical_diagram.png" alt="Logical Diagram" width="300">
+
 ## Features
 1. **Active Directory Setup**
    - Domain Controller configuration
