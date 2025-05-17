@@ -48,9 +48,3 @@ Below is a link to the logical diagram of the project. The diagram illustrates t
 ## Credits
 This project is heavily inspired by MyDFIR's excellent guide on building an Active Directory home lab.  
 Check out the original guide here: [Active Directory Home Lab Guide by MyDFIR](https://www.youtube.com/watch?v=5OessbOgyEo).
-
-## Contributing
-Feel free to fork this repository and contribute improvements or additional features.
-
-## License
-This repository is licensed under the MIT License.
